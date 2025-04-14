@@ -7,6 +7,10 @@
 
 IndoTicket adalah sistem pelacakan tiket helpdesk sederhana namun kuat yang diimplementasikan dalam satu file PHP, menjadikannya sangat mudah untuk di-deploy. Sistem ini dirancang untuk memudahkan pengguna melacak status permintaan dukungan teknis mereka tanpa perlu login.
 
+![Alur Flowchart](https://blog.classy.id/upload/gambar_berita/49f19827b9388f0ff70237319106c00b_20250414111421.png)
+
+![Diagram Struktur Database](https://blog.classy.id/upload/gambar_berita/c0b7c0af8b06cdad089588f74977a278_20250414111440.png)
+
 ## ✨ Fitur
 
 - **Single-file Application**: Seluruh aplikasi terdapat dalam satu file PHP untuk kemudahan deployment
